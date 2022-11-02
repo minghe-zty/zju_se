@@ -1,2 +1,3 @@
-# diary
-zty’s dairy
+#e-book
+仅供学习交流
+不可商用
